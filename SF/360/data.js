@@ -29,7 +29,14 @@ var APP_DATA = {
         "fov": 1.5707963267948966
       },
       "linkHotspots": [],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -0.009941940930612958,
+          "pitch": -0.09804615843837539,
+          "title": "BILD",
+          "text": "<img src= images/katze.jpg>" 
+        }
+      ]
     }
   ],
   "name": "Project Title",

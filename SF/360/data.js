@@ -46,7 +46,7 @@ var APP_DATA = {
           "yaw": 0.1986452270067698,
           "pitch": -0.0882961466656802,
           "title": "Video",
-          "text": "Text"
+          "text": "<video controls><source src= video/videotest.mp4 type= video/mp4>Your browser does not support the video element.</video>"
         }
       ]
     }

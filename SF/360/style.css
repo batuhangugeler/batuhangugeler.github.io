@@ -601,8 +601,8 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   left: 0;
   padding: 10px;
   background-color:;
-  border-bottom-right-radius: 5px;
-  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
   overflow-y: auto;
   visibility: hidden;
   /* rotate(90deg) causes transition flicker on Firefox 58 */

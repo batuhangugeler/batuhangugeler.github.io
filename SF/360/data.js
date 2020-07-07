@@ -34,7 +34,7 @@ var APP_DATA = {
           "yaw": -1.0085924662423018,
           "pitch": -0.05586432196041358,
           "title": "Bild",
-          "text": "<img src= images/transparent.png>"
+          "text": "Hallo Welt."
         },
         {
           "yaw": -0.411496989073763,

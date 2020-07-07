@@ -31,10 +31,22 @@ var APP_DATA = {
       "linkHotspots": [],
       "infoHotspots": [
         {
-          "yaw": -0.009941940930612958,
-          "pitch": -0.09804615843837539,
-          "title": "BILD",
-          "text": "<img src= images/transparent.png>" 
+          "yaw": -1.0085924662423018,
+          "pitch": -0.05586432196041358,
+          "title": "Bild",
+          "text": "<img src= images/transparent.png>"
+        },
+        {
+          "yaw": -0.411496989073763,
+          "pitch": -0.08577973161148122,
+          "title": "Audio",
+          "text": "<audio controls><source src= audio/hipjazz.mp3 type= audio/mp3>Your browser does not support the audio element.</audio>"
+        },
+        {
+          "yaw": 0.1986452270067698,
+          "pitch": -0.0882961466656802,
+          "title": "Video",
+          "text": "Text"
         }
       ]
     }

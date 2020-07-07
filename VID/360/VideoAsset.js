@@ -91,7 +91,7 @@ VideoAsset.prototype.height = function() {
   }
 };
 
-VideoAsset.prototype.element = function() {
+VideoAsset.prototype.element = function("https://batuhangugeler.github.io/video/komp.mp4") {
   // If element is null, show an empty canvas. This will cause a transparent
   // image to be rendered when no video is present.
   if (this._wrappedVideo) {

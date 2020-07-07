@@ -34,7 +34,7 @@ var APP_DATA = {
           "yaw": -0.009941940930612958,
           "pitch": -0.09804615843837539,
           "title": "BILD",
-          "text": "<img src= images/katze.jpg>" 
+          "text": "<img src= images/transparent.png>" 
         }
       ]
     }

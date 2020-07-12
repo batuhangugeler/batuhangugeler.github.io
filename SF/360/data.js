@@ -33,8 +33,8 @@ var APP_DATA = {
         {
           "yaw": -1.0085924662423018,
           "pitch": -0.05586432196041358,
-          "title": "Bild",
-          "text": "Hallo Welt."
+          "title": "iFrame",
+          "text": "<iframe src= https://batuhangugeler.github.io/DE/UNR/></iframe>"
         },
         {
           "yaw": -0.411496989073763,

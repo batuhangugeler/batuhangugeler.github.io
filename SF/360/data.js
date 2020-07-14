@@ -171,7 +171,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "School of the Future",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,

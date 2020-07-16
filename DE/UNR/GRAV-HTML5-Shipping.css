@@ -49,12 +49,12 @@ html, body, .container {
 
 .wrapper {
 	position: relative;
-	margin: 1em auto 10px auto;
+	margin: ;
 	text-align: center;
-	min-width: 640px;
+	min-width: 100%;
 	width: 100%;
-	height: 480px; /* initial height, will be dynamically adjusted at runtime */
-	max-width: 95%;
+	min-height: 100%; /* initial height, will be dynamically adjusted at runtime */
+	max-width: 100%;
 	display: block;
 	align-items: center;
 	position: relative;
@@ -64,8 +64,8 @@ html, body, .container {
 
  .emscripten {
 	padding-right: 0;
-	margin-left: auto;
-	margin-right: auto;
+	margin-left: 0;
+	margin-right: 0;
 	display: block;
 	display: -webkit-box;
 	display: -moz-box;
@@ -82,8 +82,8 @@ html, body, .container {
 
 #canvas:not([fullscreen]) {
 	padding-right: 0;
-	margin-left: auto;
-	margin-right: auto;
+	margin-left: 0;
+	margin-right: 0;
 	width: 100%;
 }
 

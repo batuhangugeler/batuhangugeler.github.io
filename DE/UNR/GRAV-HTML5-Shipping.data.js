@@ -173,6 +173,6 @@ Module['FS_createPath']('/GRAV/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 81, "filename": "/UE4CommandLine.txt"}, {"start": 81, "audio": 0, "end": 37653191, "filename": "/GRAV/Content/Paks/GRAV-HTML5.pak"}], "remote_package_size": 37653191, "package_uuid": "206f6e5f-6ceb-427d-ae3f-4f9cb049bffe"});
+ loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 81, "filename": "/UE4CommandLine.txt"}, {"start": 81, "audio": 0, "end": 37789867, "filename": "/GRAV/Content/Paks/GRAV-HTML5.pak"}], "remote_package_size": 37789867, "package_uuid": "e7b8cde6-486b-4782-9865-160d43dad36f"});
 
 })();
